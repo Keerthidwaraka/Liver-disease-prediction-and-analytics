@@ -30,7 +30,7 @@ import warnings
 warnings.filterwarnings('ignore')
 import os
 ```
-## Load and Explore the Dataset
+## Loading and Exploring the Dataset
 ```
 # Load the CSV file
 patients = pd.read_csv(file_path)
